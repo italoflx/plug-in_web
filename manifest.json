@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "version": "0.0.1",
+    "name": "Chrome Extension",
+    "description": "Extensão do Google Chrome",
+    "author": "Emanuel Ítalo",
+    "action": {
+        "default_popup": "index.html"
+    }
+}
